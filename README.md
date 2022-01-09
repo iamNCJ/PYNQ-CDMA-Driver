@@ -1,10 +1,11 @@
 # PYNQ-CDMA-Driver
  PYNQ Driver for Xilinx Central Direct Memory Access IP
 
+[![pip](https://badge.fury.io/py/pynq-cdma.svg)](https://pypi.org/project/pynq-cdma/)
 ## Installation
 
 ```sh
-pip install pynq_cdma
+pip install pynq-cdma
 ```
 
 ## Usage
