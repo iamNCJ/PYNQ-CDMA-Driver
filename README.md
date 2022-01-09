@@ -1,6 +1,12 @@
 # PYNQ-CDMA-Driver
  PYNQ Driver for Xilinx Central Direct Memory Access IP
 
+## Installation
+
+```sh
+pip install pynq_cdma
+```
+
 ## Usage
 
 Currently, we only support simple DMA transfer
